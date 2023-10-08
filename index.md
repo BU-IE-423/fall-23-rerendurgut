@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Hello, this is Recep Eren. You'll be updated about the progress via this site.
+
 You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydacelenkk/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
