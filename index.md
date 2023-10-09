@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page
 
 Hello, this is Recep Eren. My ID is 2019402000 You'll be updated about the progress via this site.
 
