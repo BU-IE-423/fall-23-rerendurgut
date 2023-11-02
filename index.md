@@ -7,7 +7,7 @@ Hello, this is Recep Eren. My ID is 2019402000 You'll be updated about the progr
 * [The R Example](R_Markdown_Example_in_RStudio.html)
 
 ### Assignements
-This part is under construction. Will be updated according to the Assignements.
+* [4.2 Part of The Project](part1.html)
 
 ### Link To This Journal
 * [This Journal's Link](https://bu-ie-423.github.io/fall-23-rerendurgut/)
