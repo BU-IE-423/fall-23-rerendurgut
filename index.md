@@ -13,8 +13,8 @@ Hello, this is Recep Eren. My ID is 2019402000 You'll be updated about the progr
 * [Whole Report for the Project 1](Project1/Project_Part1_Report.pdf)
 
 #### Project 2
-* [Code in HTML Format](Proje 2/IE423_updated.html)
-* [Whole Report for the Project 2](Proje 2/IE423 project part 2.pdf)
+* [Code in HTML Format](Proje_2/IE423_updated.html)
+* [Whole Report for the Project 2](Proje_2/IE423_project_part_2.pdf)
 
 ### Link To This Journal
 * [This Journal's Link](https://bu-ie-423.github.io/fall-23-rerendurgut/)
